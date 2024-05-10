@@ -1,2 +1,2 @@
 # langgraph_csr
-Customer Support Chatbot
+Customer Support Chatbot Notebook
